@@ -1,0 +1,66 @@
+footer {
+  background-color: #0f172a;
+  color: #94a3b8;
+  padding: 60px 5% 30px;
+  font-size: 0.9rem;
+  width: 100%;
+  margin: 0;
+}
+
+footer > div:first-child {
+  display: grid;
+  grid-template-columns: 2fr repeat(3, 1fr);
+  gap: 40px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #1e293b;
+}
+
+footer > div:first-child > div:first-child > div {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 12px;
+}
+
+footer > div:first-child > div:first-child p {
+  line-height: 1.6;
+  max-width: 320px;
+}
+
+footer h4 {
+  color: #ffffff;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-bottom: 16px;
+}
+
+footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+footer ul li {
+  margin-bottom: 10px;
+}
+
+footer ul a {
+  color: #94a3b8;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+footer ul a:hover {
+  color: #ffffff;
+}
+
+footer > div:last-child {
+  padding-top: 30px;
+  text-align: left;
+  font-size: 0.8rem;
+  color: #64748b;
+}

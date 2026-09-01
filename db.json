@@ -1,0 +1,426 @@
+{
+  "services": [
+    {
+      "id": "branch-001",
+      "name": "National Bank - Main Branch",
+      "category": "Banking",
+      "description": "A full-service banking branch offering account management, card services, cash transactions, and customer support.",
+      "highlightText": "All appointments booked through QueueFlow include priority handling, eliminating walk-in wait times. Customers are notified 15 minutes before their turn via SMS and in-app alerts.",
+      "image": "https://images.unsplash.com/photo-1759462692370-b29317b252d9?w=1400&h=600&fit=crop&auto=format",
+      "photos": [
+        "https://images.unsplash.com/photo-1759462692370-b29317b252d9?w=1400&h=600&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1758448093806-88b2089068ab?w=300&h=200&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1543325042-c67825847491?w=300&h=200&fit=crop&auto=format"
+      ],
+      "isOpen": true,
+      "rating": 4.7,
+      "servedToday": 127,
+      "averageWaitTime": 18,
+      "totalReviews": 248,
+      "ratingDistribution": {
+        "1": 1,
+        "2": 3,
+        "3": 6,
+        "4": 18,
+        "5": 72
+      },
+      "contact": {
+        "address": "45 El-Gomhoria Street, Downtown, Cairo",
+        "phone": "+20 2 1234 5678",
+        "email": "mainbranch@example.com",
+        "swiftCode": "BMISEGCX",
+        "mapUrl": "https://maps.app.goo.gl/nw8LhX1s642yCxsBA"
+      },
+      "workingHours": {
+        "sunday": {
+          "isOpen": true,
+          "open": "09:00",
+          "close": "15:00"
+        },
+        "monday": {
+          "isOpen": true,
+          "open": "09:00",
+          "close": "15:00"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "09:00",
+          "close": "15:00"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "09:00",
+          "close": "15:00"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "09:00",
+          "close": "15:00"
+        },
+        "friday": {
+          "isOpen": false,
+          "open": null,
+          "close": null
+        },
+        "saturday": {
+          "isOpen": false,
+          "open": null,
+          "close": null
+        }
+      }
+    },
+    {
+      "id": "branch-002",
+      "name": "Care Clinic - New Cairo Branch",
+      "category": "Healthcare",
+      "description": "Specialized medical clinic providing routine checkups, pediatric consultations, cardiology clinics, and rapid diagnostic laboratory tests.",
+      "highlightText": "Digital check-in reduces clinic waiting hall overcrowding. Live position tracking gives real-time updates as your turn approaches.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1400&h=600&fit=crop&auto=format",
+      "photos": [
+        "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1400&h=600&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=300&h=200&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=300&h=200&fit=crop&auto=format"
+      ],
+      "isOpen": true,
+      "rating": 4.9,
+      "servedToday": 84,
+      "averageWaitTime": 12,
+      "totalReviews": 190,
+      "ratingDistribution": {
+        "1": 0,
+        "2": 1,
+        "3": 2,
+        "4": 12,
+        "5": 85
+      },
+      "contact": {
+        "address": "North 90th Street, Medical Center 3, New Cairo",
+        "phone": "+20 2 8765 4321",
+        "email": "care.newcairo@example.com",
+        "mapUrl": "https://maps.google.com/?q=30.0131,31.4289"
+      },
+      "workingHours": {
+        "sunday": {
+          "isOpen": true,
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "monday": {
+          "isOpen": true,
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "friday": {
+          "isOpen": false,
+          "open": null,
+          "close": null
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "12:00",
+          "close": "23:00"
+        }
+      }
+    },
+    {
+      "id": "branch-003",
+      "name": "National Bank - Zayed Express",
+      "category": "Banking",
+      "description": "Express self-service banking center and corporate consultation hub specialized in fast loan processing and business advisory.",
+      "highlightText": "Branch is closed today for routine system maintenance. Pre-booking slots are available for upcoming working days.",
+      "image": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=1400&h=600&fit=crop&auto=format",
+      "photos": [
+        "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=1400&h=600&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=300&h=200&fit=crop&auto=format"
+      ],
+      "isOpen": false,
+      "rating": 4.5,
+      "servedToday": 0,
+      "averageWaitTime": 0,
+      "totalReviews": 95,
+      "ratingDistribution": {
+        "1": 2,
+        "2": 3,
+        "3": 10,
+        "4": 25,
+        "5": 60
+      },
+      "contact": {
+        "address": "Arkan Plaza, Building 4, Sheikh Zayed, Giza",
+        "phone": "+20 2 3344 5566",
+        "email": "zayed.express@example.com",
+        "swiftCode": "BMISEGCZ",
+        "mapUrl": "https://maps.google.com/?q=30.0534,30.9856"
+      },
+      "workingHours": {
+        "sunday": {
+          "isOpen": true,
+          "open": "08:30",
+          "close": "16:00"
+        },
+        "monday": {
+          "isOpen": true,
+          "open": "08:30",
+          "close": "16:00"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "08:30",
+          "close": "16:00"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "08:30",
+          "close": "16:00"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "08:30",
+          "close": "16:00"
+        },
+        "friday": {
+          "isOpen": false,
+          "open": null,
+          "close": null
+        },
+        "saturday": {
+          "isOpen": false,
+          "open": null,
+          "close": null
+        }
+      }
+    }
+  ],
+  "offeredServices": [
+    {
+      "id": "offered-001",
+      "serviceId": "branch-001",
+      "name": "Account Opening",
+      "description": "Open a new bank account and complete the required registration procedures. Bring your national ID.",
+      "duration": 20,
+      "slotsAvailable": 9,
+      "available": true,
+      "image": "https://images.unsplash.com/photo-1758518731462-d091b0b4ed0d?w=500&h=300&fit=crop&auto=format"
+    },
+    {
+      "id": "offered-002",
+      "serviceId": "branch-001",
+      "name": "Card Replacement",
+      "description": "Replace a lost, damaged, or expired bank card. New card issued within 3–5 business days.",
+      "duration": 15,
+      "slotsAvailable": 14,
+      "available": true,
+      "image": "https://images.unsplash.com/photo-1589758438368-0ad531db3366?w=500&h=300&fit=crop&auto=format"
+    },
+    {
+      "id": "offered-003",
+      "serviceId": "branch-001",
+      "name": "Customer Support",
+      "description": "Get assistance with account issues, transaction disputes, online banking setup, or general inquiries.",
+      "duration": 10,
+      "slotsAvailable": 5,
+      "available": false,
+      "image": "https://images.unsplash.com/photo-1758598304528-c3cd0cc44dad?w=500&h=300&fit=crop&auto=format"
+    },
+    {
+      "id": "offered-004",
+      "serviceId": "branch-002",
+      "name": "General Health Checkup",
+      "description": "Complete vital checkup including blood pressure, ECG, blood sugar test, and doctor consultation.",
+      "duration": 30,
+      "slotsAvailable": 12,
+      "available": true,
+      "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=500&h=300&fit=crop&auto=format"
+    },
+    {
+      "id": "offered-005",
+      "serviceId": "branch-002",
+      "name": "Pediatric Examination",
+      "description": "Comprehensive infant and child development review with our specialized pediatrician.",
+      "duration": 25,
+      "slotsAvailable": 6,
+      "available": true,
+      "image": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?w=500&h=300&fit=crop&auto=format"
+    },
+    {
+      "id": "offered-006",
+      "serviceId": "branch-002",
+      "name": "Comprehensive Blood Panel",
+      "description": "Full blood analysis with instant digital lab report delivery within 2 hours.",
+      "duration": 15,
+      "slotsAvailable": 0,
+      "available": false,
+      "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=500&h=300&fit=crop&auto=format"
+    },
+    {
+      "id": "offered-007",
+      "serviceId": "branch-003",
+      "name": "Corporate Loan Advisory",
+      "description": "Tailored financing consultation and investment strategies for small and medium enterprises.",
+      "duration": 45,
+      "slotsAvailable": 4,
+      "available": false,
+      "image": "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=500&h=300&fit=crop&auto=format"
+    },
+    {
+      "id": "offered-008",
+      "serviceId": "branch-003",
+      "name": "VIP Safe Deposit Box Access",
+      "description": "Private locker access and high-security storage services for valued clients.",
+      "duration": 20,
+      "slotsAvailable": 8,
+      "available": false,
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=500&h=300&fit=crop&auto=format"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "review-001",
+      "serviceId": "branch-001",
+      "userId": "user-001",
+      "userName": "Ahmed Hassan",
+      "userAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=80&h=80&fit=crop&auto=format",
+      "rating": 5,
+      "date": "2026-08-20",
+      "comment": "Booked via QueueFlow and arrived exactly when it was my turn. The staff were professional and the branch was clean."
+    },
+    {
+      "id": "review-002",
+      "serviceId": "branch-001",
+      "userId": "user-002",
+      "userName": "Mariam Ali",
+      "userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=80&h=80&fit=crop&auto=format",
+      "rating": 4,
+      "date": "2026-08-18",
+      "comment": "The staff were helpful and the service was completed quickly. The app notifications worked perfectly."
+    },
+    {
+      "id": "review-003",
+      "serviceId": "branch-002",
+      "userId": "user-003",
+      "userName": "Nour Mahmoud",
+      "userAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=80&h=80&fit=crop&auto=format",
+      "rating": 5,
+      "date": "2026-08-25",
+      "comment": "Excellent clinic organization. No waiting time at all; went straight to the doctor at my designated slot."
+    },
+    {
+      "id": "review-004",
+      "serviceId": "branch-002",
+      "userId": "user-001",
+      "userName": "Ahmed Hassan",
+      "userAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=80&h=80&fit=crop&auto=format",
+      "rating": 5,
+      "date": "2026-08-22",
+      "comment": "Doctors and nurses are exceptionally caring. Clean facilities and seamless digital queueing."
+    },
+    {
+      "id": "review-005",
+      "serviceId": "branch-003",
+      "userId": "user-002",
+      "userName": "Mariam Ali",
+      "userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=80&h=80&fit=crop&auto=format",
+      "rating": 4,
+      "date": "2026-08-15",
+      "comment": "Great business advisory desk, though the parking area was quite crowded."
+    }
+  ],
+  "users": [
+    {
+      "id": "user-001",
+      "name": "Ahmed Hassan",
+      "email": "ahmed@example.com",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=80&h=80&fit=crop&auto=format"
+    },
+    {
+      "id": "user-002",
+      "name": "Mariam Ali",
+      "email": "mariam@example.com",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=80&h=80&fit=crop&auto=format"
+    },
+    {
+      "id": "user-003",
+      "name": "Nour Mahmoud",
+      "email": "nour@example.com",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=80&h=80&fit=crop&auto=format"
+    }
+  ],
+  "appointments": [
+    {
+      "serviceId": "branch-002",
+      "offeredServiceId": "offered-004",
+      "serviceName": "Care Clinic - New Cairo Branch",
+      "date": "2026-08-19",
+      "time": "11:00 AM",
+      "user": {
+        "fullName": "هدى مجدى عبدالوهاب عبدالرازق",
+        "phone": "01098706761",
+        "email": "hudamagdy205@gmail.com"
+      },
+      "status": "cancelled",
+      "createdAt": "2026-09-01T09:31:27.117Z",
+      "id": "TvUVTPQ3Cjk"
+    },
+    {
+      "serviceId": "branch-001",
+      "offeredServiceId": "offered-002",
+      "serviceName": "National Bank - Main Branch",
+      "date": "2026-08-19",
+      "time": "02:00 PM",
+      "user": {
+        "fullName": "هدى مجدى عبدالوهاب عبدالرازق",
+        "phone": "01098706761",
+        "email": "hudamagdy205@gmail.com"
+      },
+      "status": "waiting",
+      "createdAt": "2026-09-01T10:17:18.523Z",
+      "id": "4bui7CcVXiI"
+    },
+    {
+      "serviceId": "branch-002",
+      "offeredServiceId": "offered-004",
+      "serviceName": "Care Clinic - New Cairo Branch",
+      "date": "2026-08-19",
+      "time": "11:00 AM",
+      "user": {
+        "fullName": "هدى مجدى عبدالوهاب عبدالرازق",
+        "phone": "01098706761",
+        "email": "hudamagdy205@gmail.com"
+      },
+      "status": "cancelled",
+      "createdAt": "2026-09-01T10:22:39.606Z",
+      "id": "JC2wzKDpi9g"
+    },
+    {
+      "serviceId": "branch-002",
+      "offeredServiceId": "offered-005",
+      "serviceName": "Care Clinic - New Cairo Branch",
+      "date": "2026-08-19",
+      "time": "01:00 PM",
+      "user": {
+        "fullName": "هدى مجدى عبدالوهاب عبدالرازق",
+        "phone": "01098706761",
+        "email": "hudamagdy205@gmail.com"
+      },
+      "status": "waiting",
+      "createdAt": "2026-09-01T10:29:38.364Z",
+      "id": "_YXhRstcCXo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

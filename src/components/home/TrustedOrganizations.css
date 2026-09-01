@@ -1,0 +1,40 @@
+.trusted-section {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  border-top: 1px solid rgb(226, 232, 240);
+  border-bottom: 1px solid rgb(226, 232, 240);
+  background-color: rgb(248, 250, 252);
+}
+
+.trusted-container {
+  max-width: 80rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.trusted-title {
+  text-align: center;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 1.75rem;
+  color: rgb(148, 163, 184);
+}
+
+.trusted-logos-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  column-gap: 2.5rem;
+  row-gap: 1rem;
+}
+
+.organization-name {
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: rgb(71, 85, 105);
+}
