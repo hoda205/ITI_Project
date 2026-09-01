@@ -1,13 +1,13 @@
 import { Route, Routes } from "react-router-dom";
 
-import ServiceDetails from "./pages/serviceDetails";
+import ServiceDetails from "./pages/ServiceDetails";
 import BookingPage from "./pages/BookingPage";
 import QueueTrackerPage from "./pages/QueueTrackerPage";
 import MyBookingsPage from "./pages/MyBookingsPage";
 import HomePage from "./pages/HomePage";
 import LoginPage from "./pages/LoginPage";
 import ServicesPage from "./pages/ServicesPage";
-import MainLayout from "./layout/mainLayout";
+import MainLayout from "./layout/MainLayout";
 
 function App() {
   return (
